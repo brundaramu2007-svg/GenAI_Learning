@@ -1,0 +1,17 @@
+.env
+
+#virtual environment
+.venv/
+venv/
+env/
+
+#python cache
+__pycache__/
+
+
+#VS code
+.vscode/settings.json
+
+# os files123
+.DS_Store #mac
+THUMBS.db #windows
